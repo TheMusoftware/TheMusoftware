@@ -29,7 +29,7 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMusoftware&hide_progress=true&theme=transparent" alt=TheMusoftware />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=TheMusoftware&show_icons=true&locale=en&theme=" alt="TheMusoftware" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=TheMusoftware&show_icons=true&locale=en&theme=transparent" alt="TheMusoftware" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheMusoftware&theme=transparent" alt="TheMusoftware" /></p>
 
@@ -42,3 +42,5 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheMusoftware&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheMusoftware&theme=transparent" height="180em" />
 </div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
