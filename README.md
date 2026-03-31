@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Mustafa%20Kazi&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:6e40c9&amp;height=220&amp;section=header&amp;text=Mustafa%20Kazi&amp;fontSize=75&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20Mobile%20%26%20Full-Stack%20Developer&amp;descSize=18&amp;descAlignY=55&amp;descAlign=50" />
 
 <div align="center">
 
@@ -7,18 +7,15 @@
 <br>
 
 <a href="https://www.linkedin.com/in/musoftware">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0A66C2" />
 </a>&nbsp;
-<a href="https://github.com/TheMusoftware">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
-</a>&nbsp;
-<a href="mailto:mustafa@musoftware.dev">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+<a href="mailto:mkazi581@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=EA4335" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=TheMusoftware&label=Profile%20Views&color=6e40c9&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=TheMusoftware&amp;label=Profile%20Views&amp;color=6e40c9&amp;style=flat-square" />
 
 </div>
 
@@ -51,13 +48,13 @@ hobbies:
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=dart,java,cs,python,c,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dart,java,cs,python,c,html,css&amp;theme=dark" />
 
 ### Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=flutter,dotnet,firebase,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dotnet,firebase,git,github,vscode&amp;theme=dark" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&amp;theme=dark" />
 
 </div>
 
@@ -66,28 +63,13 @@ hobbies:
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheMusoftware&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMusoftware&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheMusoftware&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=6e40c9&amp;fire=6e40c9&amp;currStreakLabel=6e40c9&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9" />
 </div>
 
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheMusoftware&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheMusoftware&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area_color=6e40c9&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-</div>
-
----
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheMusoftware&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheMusoftware&amp;bg_color=0d1117&amp;color=6e40c9&amp;line=6e40c9&amp;point=ffffff&amp;area_color=6e40c9&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Graph" />
 </div>
 
 ---
@@ -95,13 +77,13 @@ hobbies:
 ## 📈 &nbsp;Profile Summary
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheMusoftware&theme=github_dark" width="100%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheMusoftware&amp;theme=github_dark" width="100%" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheMusoftware&theme=github_dark" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheMusoftware&theme=github_dark" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheMusoftware&theme=github_dark&utcOffset=3" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheMusoftware&amp;theme=github_dark" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheMusoftware&amp;theme=github_dark" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheMusoftware&amp;theme=github_dark&amp;utcOffset=3" width="32%" />
 </div>
 
 ---
@@ -122,12 +104,12 @@ hobbies:
 
 ### 💬 &nbsp;Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:6e40c9&amp;height=120&amp;section=footer" width="100%" />
 </div>
