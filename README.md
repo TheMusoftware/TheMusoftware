@@ -6,12 +6,6 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/musoftware">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:mkazi581@gmail.com">
-  <img src="https://img.shields.io/badge/Mail-000000?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-</a>
 
 <br><br>
 
