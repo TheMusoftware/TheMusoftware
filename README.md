@@ -37,11 +37,6 @@ Flutter · Dart · .NET · C# · Java · Python · Firebase
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheMusoftware&amp;bg_color=00000000&amp;color=000000&amp;line=000000&amp;point=888888&amp;area_color=e5e5e5&amp;area=true&amp;hide_border=true&amp;custom_title=" />
-
-</div>
 
 <br>
 
