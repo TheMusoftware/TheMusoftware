@@ -57,26 +57,5 @@ Flutter · Dart · .NET · C# · Java · Python · Firebase
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheMusoftware&amp;theme=default" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheMusoftware&amp;theme=default" width="32%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheMusoftware&amp;theme=default" width="32%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheMusoftware&amp;theme=default&amp;utcOffset=3" width="32%" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-<sub>Designed with simplicity in mind.</sub>
 
 </div>
