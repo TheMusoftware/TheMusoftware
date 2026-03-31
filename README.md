@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%92%A1+Building+ideas+into+reality+with+code;%F0%9F%9A%80+Turning+coffee+into+applications;%F0%9F%8E%AF+Clean+code+%E2%80%A2+Great+UX+%E2%80%A2+Scalable+systems)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=6E40C9&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;random=false&amp;width=600&amp;height=70&amp;lines=%F0%9F%92%A1+Building+ideas+into+reality+with+code;%F0%9F%9A%80+Turning+coffee+into+applications;%F0%9F%8E%AF+Clean+code+%E2%80%A2+Great+UX+%E2%80%A2+Scalable+systems" alt="Typing SVG" /></a>
 
 <br>
 
@@ -50,7 +50,7 @@ hobbies:
 ### Languages
 <img src="https://skillicons.dev/icons?i=dart,java,cs,python,c,html,css&amp;theme=dark" />
 
-### Frameworks & Tools
+### Frameworks &amp; Tools
 <img src="https://skillicons.dev/icons?i=flutter,dotnet,firebase,git,github,vscode&amp;theme=dark" />
 
 ### Databases
