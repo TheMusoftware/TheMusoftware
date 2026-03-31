@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mustafa Kazi
+# Mustafa
 
 **Software Engineer** · Mobile &amp; Full-Stack Developer
 
